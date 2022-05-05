@@ -13,7 +13,7 @@
       "name": "Français",
       "path": "fr.json"
     }],
-    "url": "https://github.com/adotor/foundry-dcc-de/",
-    "manifest": "https://github.com/adotor/foundry-dcc-de/raw/v1.0.4/module.json",
-    "download": "https://github.com/adotor/foundry-dcc-de/archive/v1.0.4.zip"
+    "url": "https://github.com/theksi/foundry-dcc-fr",
+    "manifest": "https://github.com/theksi/foundry-dcc-fr/raw/main/module.json",
+    "download": "https://github.com/theksi/foundry-dcc-fr/archive/main.zip"
   }
