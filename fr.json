@@ -188,7 +188,7 @@
   "DCC.CreateMacroNoHandlerWarning": "Impossible de créer une Macro à partir de l'objet déposé!",
   "DCC.CreateMacroNotOwnedWarning": "Vous ne pouvez créer des boutons macro que pour les objets que vous possédez.",
   "DCC.CreditsButton" : "Crédits",
-  "DCC.CritDie": "Dé <br/>Critique",
+  "DCC.CritDie": "Type Dé Critique",
   "DCC.CritRange": "Portée coup critique",
   "DCC.CritTable": "Table critiques",
   "DCC.Critical": "Critique",
