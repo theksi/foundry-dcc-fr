@@ -20,3 +20,6 @@ Contributeurs : Mr.Fred (@theksi) et Segoku (@segoku1)
 - Traduction des feuilles de types Zero/NPC
 - Traduction des feuilles de types Mage
 - Traduction des feuilles de types Elfe
+- Traduction des feuilles de types Clerc
+- Traduction fes feuilles de type voleur
+- Traduction des feuilles de type Halfelin
