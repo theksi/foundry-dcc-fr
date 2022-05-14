@@ -3,3 +3,5 @@
 - Cleric tab :
   - Table for Lay on hands : the column header doesn't seem to be localized or the localization doesn't look like it is applied
   - Idem for the condition table
+
+  ![Cleric-Tab](images/Cleric-tab.png)
