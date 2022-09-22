@@ -16,7 +16,7 @@ Contributeurs : Mr.Fred (@theksi) et Segoku (@segoku1)
 
 ## Changelogs
 ### 0.1.1
-- Vaidée pour la version 0.34.1 du système de jeu
+- Validée pour la version 0.34.1 du système de jeu
 ### 0.0.9
 - Couvre la version 0.33.4 du système de jeu DCC
 - Traduction des feuilles de types Zero/NPC
